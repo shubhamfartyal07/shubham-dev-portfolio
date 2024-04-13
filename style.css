@@ -111,6 +111,7 @@ main hr {
 }
 footer{
     background-color: rgba(12, 12, 12, 0.453);
+
     /* height: 221px; */
     /* margin: 28vh; */
 }
@@ -118,6 +119,7 @@ footer{
     display: flex;
     padding: 14px 74px;
     justify-content: space-evenly;
+
 }
 .footer  > div{
     width: 100px;
@@ -140,4 +142,5 @@ footer .footer-rights{
     text-align: center;
     /* margin: -14px; */
     color: gray;
+
 }
